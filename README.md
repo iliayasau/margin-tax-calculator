@@ -2,12 +2,11 @@
 
 A simple App fetching data from the API to calculate total income tax for given salary and year.
 
-Just run 
+To run:
 
-**npm i**
-
-and then
-
+**nvm use 14**
+**npm install**
+**npm run-script build**
 **npm start**
 
 and you'll be fine :)
